@@ -1,1 +1,2 @@
 # CinemaTrending
+Showing Movies Trend
