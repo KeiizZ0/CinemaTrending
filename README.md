@@ -1,2 +1,2 @@
 # CinemaTrending
-Showing Movies Trend
+Showing Movies Trend Real Time!
